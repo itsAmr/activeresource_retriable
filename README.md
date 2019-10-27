@@ -27,4 +27,5 @@ All configuration options are defined in [kamui/retriable](<https://github.com/k
 
 TODO:
 
-- Support contexts.
+- Set up CI.
+- Support retriable contexts.
