@@ -23,6 +23,8 @@ Any request from under this _Resource_ class will apply the retry mechanism.
 
 All configuration options are defined in [kamui/retriable](<https://github.com/kamui/retriable>).
 
+Helpful note: _ActiveResource_ has a default timeout of 60 seconds which can be overriden in the resource class (`self.timeout = 10`).
+
 ## Contributing
 
 TODO:
